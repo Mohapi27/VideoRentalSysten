@@ -13,6 +13,7 @@ import org.springframework.stereotype.Controller;
  * @author Mohapi
  */
 @Controller
-public class NewClass {
+public class NewClass 
+{
     
 }
